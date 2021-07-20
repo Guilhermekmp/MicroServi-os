@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LSI-MicroServico.iml" filepath="$PROJECT_DIR$/.idea/LSI-MicroServico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apigateway/apigateway.iml" filepath="$PROJECT_DIR$/apigateway/apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carrinho-compra/carrinho-compra.iml" filepath="$PROJECT_DIR$/carrinho-compra/carrinho-compra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forma-envio/forma-envio.iml" filepath="$PROJECT_DIR$/forma-envio/forma-envio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forma-pagamento/forma-pagamento.iml" filepath="$PROJECT_DIR$/forma-pagamento/forma-pagamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pedido/pedido.iml" filepath="$PROJECT_DIR$/pedido/pedido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produto/produto.iml" filepath="$PROJECT_DIR$/produto/produto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicediscovery/servicediscovery.iml" filepath="$PROJECT_DIR$/servicediscovery/servicediscovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usuario/usuario.iml" filepath="$PROJECT_DIR$/usuario/usuario.iml" />
+    </modules>
+  </component>
+</project>

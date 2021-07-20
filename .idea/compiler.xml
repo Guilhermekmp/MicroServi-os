@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apigateway" />
+        <module name="produto" />
+        <module name="servicediscovery" />
+        <module name="pedido" />
+        <module name="forma-envio" />
+        <module name="carrinho-compra" />
+        <module name="usuario" />
+        <module name="forma-pagamento" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apigateway" target="11" />
+      <module name="carrinho-compra" target="1.8" />
+      <module name="forma-envio" target="1.8" />
+      <module name="forma-pagamento" target="1.8" />
+      <module name="pedido" target="1.8" />
+      <module name="produto" target="1.8" />
+      <module name="servicediscovery" target="11" />
+      <module name="usuario" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="apigateway" options="-parameters" />
+      <module name="carrinho-compra" options="-parameters" />
+      <module name="forma-envio" options="-parameters" />
+      <module name="forma-pagamento" options="-parameters" />
+      <module name="pedido" options="-parameters" />
+      <module name="produto" options="-parameters" />
+      <module name="servicediscovery" options="-parameters" />
+      <module name="usuario" options="-parameters" />
+    </option>
+  </component>
+</project>
